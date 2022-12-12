@@ -1,3 +1,3 @@
 select city, population
-from "population"."populatio
+from "population"."populati
 where city='Baixada Cuiabana';
